@@ -25,7 +25,7 @@ bool TScanTable::InsertRecord(TKey key, PTDatValue value)
         SetRetCode(TAB_FULL);
         return false;
     }
-
+    //std::cout << key << " ";
     pData[DataCount] = new TTabRecord(key, value);
     DataCount++;
     SetRetCode(TAB_OK);

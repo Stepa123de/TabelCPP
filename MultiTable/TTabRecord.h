@@ -46,7 +46,7 @@ public:
 		return _key > other._key;
 	}
 
-	PTDatValue GetCopy() override {
+	PTDatValue GetCopy() override{
 		return new TTabRecord(_key, _value);
 	}
 
