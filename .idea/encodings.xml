@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/Record/TWordCounter.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/Record/TWordCounter.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/Record/TWordCounter.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TArrayTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TArrayTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TScanTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TScanTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TSortTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TSortTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Tabel/TTable.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="windows-1251" />
+  </component>
+</project>

@@ -7,6 +7,18 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+#Clion
+*bin*
+*debug*
+vendor
+*.tmp
+*.txt
+*.log
+*.bin
+*.sum
+.vscode
+TODO
+
 # User-specific files
 *.rsuser
 *.suo

@@ -1,3 +1,0 @@
-C:/Users/Стёпа/Desktop/TTabel/cmake-build-debug/CMakeFiles/TTabel.dir
-C:/Users/Стёпа/Desktop/TTabel/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Стёпа/Desktop/TTabel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
